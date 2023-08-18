@@ -1,0 +1,245 @@
+.div-green1 {
+    background-color: #3FDD7D;
+    height: 100px;
+    width: 78rem;
+}
+
+.div-logo {
+    height: 100px;
+    width: 200px;
+    background-color: white;
+    display: inline-block;
+    
+}
+
+.img-logo {
+    height: 100px;
+    width: 100px;
+    margin-left: 45px;
+}
+
+.nav-bar {
+    display: inline-block;
+    position: absolute;
+    margin-left: 20px;
+    top: 20px;
+
+}
+
+.nav-bar li {
+    display: inline-block;
+    margin: 10px;
+    font-weight: 700;
+    color: white;
+    font-family: 'Calibri';
+}
+
+.div-img {
+    display: inline-block;
+    position: relative;
+}
+
+.div-zoom {
+    display: inline-block;
+}
+
+.div-zoom li {
+    list-style: none;
+    position: relative;
+    top: -215px;
+    right: 780px;
+}
+
+.img-body {
+    height: 30rem;
+    width: 50rem;
+}
+
+.div-green2 {
+    display: inline-block;
+    background-color: #3FDD7D;
+    position: absolute;
+    left: 808px;
+    height: 30rem;
+    width: 28rem;
+}
+
+.div-fav-icon li {
+    display: inline-block;
+    list-style: none;
+    position: relative;
+    bottom: -391px;
+    margin: 10px;
+}
+
+.div-fav-icon ul {
+    margin-left: 70px;
+}
+
+.techoners {
+    /* background-color: white; */
+    display: inline-block;
+    position: relative;
+    top: -218px;
+    left: -358px;
+    height: 10rem;
+    width: 20rem;
+}
+
+.light-green {
+    background-color: #59f69772;
+    display: inline-block;
+    height: 15rem;
+    width: 4rem;
+    position: relative;
+    top: 80px;
+}
+
+.text-box {
+    background-color: white;
+    display: inline-block;
+    height: 15rem;
+    width: 30rem;
+    position: relative;
+    top: 320px;
+    left: 63px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    padding-left: 34px;
+}
+
+h2 {
+    text-decoration: underline;
+    text-decoration-color: #3FDD7D;
+    text-decoration-style: double;
+    color: rgb(77, 74, 74);
+    font-size: 1200;
+  }
+
+  .learn-more {
+    background-color: #3FDD7D;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: medium;
+    font-weight: 700;
+    border: none;
+    height: 52px;
+    width: 193px;
+    position: relative;
+    left: 88px;
+    top: 24px;
+  }
+
+  p {
+    color: gray;
+  }
+
+  .our-services {
+    background-color: white;
+    display: inline-block;
+    height: 15rem;
+    width: 20rem;
+    position: relative;
+    top: 101px;
+    left: 148px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    padding-left: 34px;
+  }
+
+  .all-services {
+    background-color: #3FDD7D;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: medium;
+    font-weight: 700;
+    border: none;
+    height: 52px;
+    width: 193px;
+    position: relative;
+  }
+
+  .web-development {
+        background-color: white;
+        display: inline-block;
+        height: 52px;
+        width: 350px;
+        position: relative;
+        top: 121px;
+        left: 103px;
+        font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+        padding-left: 34px;
+        text-align: center;
+  }
+
+  .graphic-design {
+    background-color: white;
+    display: inline-block;
+    height: 52px;
+    width: 350px;
+    position: relative;
+    top: 101px;
+    left: 103px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    padding-left: 34px;
+    text-align: center;
+  }
+
+  h5 {
+    color: gray;
+  }
+
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
+
+
+  .footer-bar li {
+    display: inline-block;
+    margin: 10px;
+    font-weight: 700;
+    color: white;
+    font-family: 'Calibri';
+}
+
+footer {
+    display: block;
+    background-color: #d3d6d470;
+    height: 230px;
+    width: 78rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+
+}
+
+.thank {
+    display: inline-block;
+    height: 52px;
+    width: 350px;
+    text-align: center;
+    margin: 50px;
+}
+
+.company {
+    display: inline-block;
+    height: 52px;
+    width: 350px;
+    margin: 50px;
+}
+
+.end {
+    background-color: #3FDD7D;
+    display: inline-block;
+    height: 100px;
+    width: 2px;
+    position: relative;
+    top: 42px;
+    right: -130px;
+}
+
+.end-text {
+    color: #3FDD7D;
+    font-weight: 600;
+    position: relative;
+    left: -3px;
+    top: -27px;
+}

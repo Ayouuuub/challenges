@@ -1,0 +1,45 @@
+legend {
+    font-size: large;
+    font-weight: 800;
+    color: blue;
+}
+
+p {
+    font-size: large;
+    font-weight: 800;
+    color: blue;
+}
+
+div {
+    width: 600px;
+    height: auto;
+    border: double;
+    margin: auto;
+    text-align: center;
+}
+
+label {
+    font-weight: 700;
+    color: rgb(41, 109, 28);
+}
+
+.first-name, .last-name {
+    height: 20px;
+    width: 300px;
+}
+
+.email {
+    height: 20px;
+    width: 400px;
+}
+
+/* 5- Add some styling to the button, change the dimensions, the color of the text inside it, and the background color. */
+
+.submit {
+    height: 30px;
+    width: 100px;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(69, 219, 99);
+    font-weight: 700;
+}
